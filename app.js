@@ -1,4 +1,4 @@
-const todos = [
+export const todos = [
 	{
 		userId: 1,
 		id: 1,
